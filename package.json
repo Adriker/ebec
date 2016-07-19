@@ -1,0 +1,21 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "nodemon server/server.js"
+  },
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "materialize-css": "^0.97.6",
+    "method-override": "^2.3.6",
+    "mongoose": "^4.5.5",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
+}
